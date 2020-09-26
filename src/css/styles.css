@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+}
+
+#txtBusca {
+  width: 100%;
+}
+
+#btnBusca {
+  margin-left: 10px;
+  float: right;
+}
+
+.pgTitle {
+  padding: 50px;
+  text-align: center;
+}
+
+.box {
+  width: 50%;
+  height: 50%;
+  border-radius: 5px;
+  border: solid 1px;
+  border-color: gainsboro;
+}
+
+
+.boxEstatisticas {
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.boxUsers {
+  padding: 10px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+.users{
+  padding-top: 10px ;
+  display: flex;
+  flex-direction: row;
+}
+
+.user-details{
+  padding: 10px;
+  
+}
+img{
+  border-radius: 50%;
+  
+}
